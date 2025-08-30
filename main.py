@@ -1,7 +1,4 @@
-try:
-	import cry
-except ModuleNotFoundError:
-	from gestoreP import cry
+import cry
 import os
 from load_dotenv import load_dotenv
 
@@ -98,3 +95,4 @@ def migrate(l: list):
 
 if __name__ == "__main__":
 	main()
+
