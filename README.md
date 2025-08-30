@@ -1,5 +1,5 @@
 # Password-manager
-A simple password manager that uses Fernet to encrypt passwords.
+A simple password manager that uses Fernet to encrypt passwords
 ## Setup
 Set environment variables (.env):
 + KEY="ENTER A VALID ENCRYPTION KEY"
